@@ -1,0 +1,48 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+html {
+  background-color: lightgray;
+}
+
+.bezpacky {
+  padding: 0;
+  max-width: 800px;
+  margin: 0 auto;
+  text-allign: center;
+  background-color: #707070;
+  font-family: sans-serif; 
+  border-radius: 20px;
+}
+
+.paticka {
+  background-color: darkblue;
+  color:white;
+  padding: 2em;
+  font-family: sans-serif;
+  border-radius: 20px;
+}
+
+.hlavni {
+  padding: 2em;
+  font-family: sans-serif; 
+}
+
+.headshot {
+  border-radius: 20px;
+  padding: 2em;
+  font-family: sans-serif; 
+  background-color: #a6a6a6;
+  
+}
+
+h1 {
+  color: black;
+}
+
+.izolepa2 {
+  scale: 50%;
+}
+
